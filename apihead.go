@@ -1,4 +1,4 @@
-package base
+package go_base
 
 type RestResponseHead struct {
 	Code    int    `json:"code"`

@@ -1,4 +1,4 @@
-package base
+package go_base
 
 //设备信息
 type Device struct {
